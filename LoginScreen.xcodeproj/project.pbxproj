@@ -14,6 +14,7 @@
 		EB9705DD2A843B1D0052AA07 /* LoginScreenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9705DC2A843B1D0052AA07 /* LoginScreenTests.swift */; };
 		EB9705E72A843B1D0052AA07 /* LoginScreenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9705E62A843B1D0052AA07 /* LoginScreenUITests.swift */; };
 		EB9705E92A843B1D0052AA07 /* LoginScreenUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9705E82A843B1D0052AA07 /* LoginScreenUITestsLaunchTests.swift */; };
+		EB9705F62A843BA60052AA07 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB9705F52A843BA60052AA07 /* ContentViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		EB9705E22A843B1D0052AA07 /* LoginScreenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginScreenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB9705E62A843B1D0052AA07 /* LoginScreenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenUITests.swift; sourceTree = "<group>"; };
 		EB9705E82A843B1D0052AA07 /* LoginScreenUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreenUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EB9705F52A843BA60052AA07 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				EB9705CD2A843B1C0052AA07 /* ContentView.swift */,
 				EB9705CF2A843B1D0052AA07 /* Assets.xcassets */,
 				EB9705D12A843B1D0052AA07 /* Preview Content */,
+				EB9705F52A843BA60052AA07 /* ContentViewModel.swift */,
 			);
 			path = LoginScreen;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				EB9705CE2A843B1C0052AA07 /* ContentView.swift in Sources */,
 				EB9705CC2A843B1C0052AA07 /* LoginScreenApp.swift in Sources */,
+				EB9705F62A843BA60052AA07 /* ContentViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
