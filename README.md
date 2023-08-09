@@ -5,7 +5,7 @@ Este é um aplicativo iOS simples que demonstra uma tela de login básica.
 ## Recursos
 
 - Tela de login com campos de nome de usuário e senha.
-- Botão "Entrar" que simula a autenticação.
+- Botão "Log in" que simula a autenticação.
 - Mensagens de erro exibidas se os campos estiverem vazios ou a autenticação falhar.
 
 ## Captura de Tela
